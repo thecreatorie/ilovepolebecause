@@ -1,0 +1,10 @@
+# I Love Pole Because
+
+> A community site collecting real people's stories about why they love pole dancing — fitness, community, and self-expression.
+
+A companion project of Pole Fitness Studio (Las Vegas) and PoleFitnessOnline.com. Visitors share their stories; new pole dancers get a free first class in Las Vegas.
+
+## Pages
+
+- [Stories](/stories): Personal stories from the pole community
+- [Share Your Story](/share-your-story): Tell us why you love pole dancing
